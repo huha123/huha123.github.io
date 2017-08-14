@@ -7,11 +7,11 @@ url: "http://huha123.github.io" # for test: remove string 'http://victorvoid.git
 username: huha123
 user_title: superbuild huha123
 email: huha3213@gmail.com
-twitter_username: empty
+twitter_username: ""
 github_username:  huha123
-gplus_username:  huha3213
+gplus_username:  bokyunKo
 disqus_username: empty
-profile_picture: https://drive.google.com/open?id=0B-Mt1LFeq8fpQ2pEdWc1ZmlBR3M
+profile_picture: assets/img/3696779939_bc3255df_Download_2015_05_27_18_55_15.jpg
 
 # Build settings
 markdown: kramdown
