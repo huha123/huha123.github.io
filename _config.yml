@@ -42,5 +42,7 @@ links:
 projects:
   - name:         sound cloud challange - follow maze
     url:          https://github.com/huha123/soundcloud-challange
+  - name:         Android - lotto matrix
+    url:          https://play.google.com/store/apps/details?id=com.huha123.lottomatrix&hl=en
 # exclude my node related stuff
 exclude:          ['package.json', 'src', 'node_modules']
